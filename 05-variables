@@ -1,8 +1,12 @@
 #!/bin/bash
 
-echo "enter your name and password"
+echo "enter your name "
+
 read name
-reade pasword
+
+echo "enter your password"
+
+read password
 
 echo "name is $name"
-echo "pasword is $pasword"
+echo "password is $password"
