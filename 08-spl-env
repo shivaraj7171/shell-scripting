@@ -1,0 +1,10 @@
+#!/bin/bash
+
+echo "$@"
+echo "$*"
+echo "$0"
+echo "$PWD"
+echo "$USER"
+echo "$HOME"
+echo "$$"
+echo "thank you"
