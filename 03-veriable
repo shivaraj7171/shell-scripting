@@ -1,0 +1,8 @@
+#!/bin/bash
+
+persion1=harish
+persion2=ummi
+echo "$persion1:: hi $persion2"
+echo "$persion2:: hello $persion1"
+echo "$persion1 :: $persion2 good morning "  
+echo "$persion2 :: V V GM $persion1!!!"
