@@ -1,0 +1,9 @@
+#!/bin/bash
+
+perion1=shiva
+persion2=harii
+
+echo "$perion1 :: hi $perion2 when did u came"
+echo "$perion2 :: hello $perion1 just now in bus man "
+echo "$perion1 :: ok fine $perion2 did u complete ur lunch "
+echo "$perion2 :: ha ha haaa $perion1 still no man, "
