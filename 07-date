@@ -10,4 +10,4 @@ end_time=$(date +%s)
 TOTAL_TIME=$(($end_time-$start_time))
 
 
-echo "today's date is : $TOTAL_TIME SECONDS"
+echo "script executed in : $TOTAL_TIME SECONDS"
