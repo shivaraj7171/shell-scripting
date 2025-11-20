@@ -1,5 +1,13 @@
 #!/bin/bash
 
-DATE=$(date)
+start_time=$(date +%s)
 
-echo "today's date is : $DATE"
+
+sleep 10 &
+
+end_time=$(date +%s)
+
+TOTAL_TIME=$($end_time-$start_time)
+
+
+echo "today's date is : $TOTAL_TIME SECONDS"
