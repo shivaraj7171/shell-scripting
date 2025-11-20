@@ -6,3 +6,8 @@ number2=200
 sum=$(($number1+$number2))
 
 echo "sum is : ${sum}"
+
+
+leaders=("hari" "ummi" "ram")
+
+echo "all leaders:${leaders}[@]"
