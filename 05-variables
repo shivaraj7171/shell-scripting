@@ -1,0 +1,7 @@
+#!/bin/bash
+
+echo "enter your name and pasword"
+read name
+reade pasword
+
+echo "pasword is $pasword"
